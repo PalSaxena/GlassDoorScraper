@@ -1,0 +1,5 @@
+path_to_chrome_driver = "../chromedriver.exe"
+glassdoor_login_url = "http://www.glassdoor.com/profile/login_input.htm"
+username = "datacrawler.scanta@gmail.com"
+password = "glassdoor@scanta22"
+search_company_url = "https://www.glassdoor.com/Search/results.htm?keyword="
